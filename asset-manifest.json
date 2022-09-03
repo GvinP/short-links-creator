@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/short-links-creator/static/js/main.e051c21e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/short-links-creator/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/short-links-creator/index.html",
+    "main.e051c21e.js.map": "/short-links-creator/static/js/main.e051c21e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/short-links-creator/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e051c21e.js"
+  ]
+}
